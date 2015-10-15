@@ -5,3 +5,5 @@ print("Hello");
 
 
 print("Hello-advanced");
+
+print("Hello-advanced");
